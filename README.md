@@ -1,6 +1,3 @@
-
-
-
 def calculator():
     numbers = []
     num = int(input("Введите количество чисел: "))
